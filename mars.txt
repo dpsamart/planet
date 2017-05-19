@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Mars is blue! If you think it's red, you're color blind. 
 Ok it is red but it is rocky too!!
 
 The rocks are a figment of your imagination. Those are actually spiders. Very large spiders. 
+=======
+Mars is red planet!
+>>>>>>> c3e3ce1fbe3d75d61520d752cdc71435f4e30734
