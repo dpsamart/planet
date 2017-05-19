@@ -2,15 +2,9 @@ Mars is blue! If you think it's red, you're color blind.
 Ok it is red but it is rocky too!!
 
 The rocks are a figment of your imagination. Those are actually spiders. Very large spiders. 
-<<<<<<< HEAD
-=======
-Mars is red planet!
->>>>>>> c3e3ce1fbe3d75d61520d752cdc71435f4e30734
 
 ok ..... you have some new information.
 lets terminate the manned mars mission .....
 it can be dangerous.
-=======
 
-Why would it bring back what I've changed? I don't want it to do that at all. 
->>>>>>> a2ed8c402850f0b1b51eb22e748839ae3f115b83
+I agree. Clearly, the gases can have hallucinagic properties. 
